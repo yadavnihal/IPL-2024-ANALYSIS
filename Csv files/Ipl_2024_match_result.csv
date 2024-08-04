@@ -1,0 +1,75 @@
+team1,team2,winner,Margin,ground,Match_id,scorecard_href
+RCB,CSK,CSK,6 wickets,Chennai,Match #1,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-royal-challengers-bengaluru-1st-match-1422119/full-scorecard
+DC,PBKS,PBKS,4 wickets,Mullanpur,Match #2,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-delhi-capitals-2nd-match-1422120/full-scorecard
+SRH,KKR,KKR,4 runs,Eden Gardens,Match #3,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-3rd-match-1422121/full-scorecard
+LSG,RR,RR,20 runs,Jaipur,Match #4,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-lucknow-super-giants-4th-match-1422122/full-scorecard
+MI,GT,GT,6 runs,Ahmedabad,Match #5,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-mumbai-indians-5th-match-1422123/full-scorecard
+PBKS,RCB,RCB,4 wickets,Bengaluru,Match #6,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-punjab-kings-6th-match-1422124/full-scorecard
+GT,CSK,CSK,63 runs,Chennai,Match #7,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-gujarat-titans-7th-match-1422125/full-scorecard
+MI,SRH,SRH,31 runs,Hyderabad,Match #8,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-mumbai-indians-8th-match-1422126/full-scorecard
+DC,RR,RR,12 runs,Jaipur,Match #9,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-delhi-capitals-9th-match-1422127/full-scorecard
+RCB,KKR,KKR,7 wickets,Bengaluru,Match #10,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-kolkata-knight-riders-10th-match-1422128/full-scorecard
+PBKS,LSG,LSG,21 runs,Lucknow,Match #11,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-punjab-kings-11th-match-1422129/full-scorecard
+SRH,GT,GT,7 wickets,Ahmedabad,Match #12,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-sunrisers-hyderabad-12th-match-1422130/full-scorecard
+CSK,CSK,DC,20 runs,Visakhapatnam,Match #13,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-chennai-super-kings-13th-match-1422131/full-scorecard
+MI,RR,RR,6 wickets,Wankhede,Match #14,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-rajasthan-royals-14th-match-1422132/full-scorecard
+RCB,LSG,LSG,28 runs,Bengaluru,Match #15,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-lucknow-super-giants-15th-match-1422133/full-scorecard
+DC,KKR,KKR,106 runs,Visakhapatnam,Match #16,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-kolkata-knight-riders-16th-match-1422134/full-scorecard
+GT,PBKS,PBKS,3 wickets,Ahmedabad,Match #17,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-punjab-kings-17th-match-1422135/full-scorecard
+CSK,SRH,SRH,6 wickets,Hyderabad,Match #18,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-chennai-super-kings-18th-match-1422136/full-scorecard
+RCB,RR,RR,6 wickets,Jaipur,Match #19,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-royal-challengers-bengaluru-19th-match-1422137/full-scorecard
+DC,MI,MI,29 runs,Wankhede,Match #20,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-delhi-capitals-20th-match-1422138/full-scorecard
+GT,LSG,LSG,33 runs,Lucknow,Match #21,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-gujarat-titans-21st-match-1422139/full-scorecard
+KKR,CSK,CSK,7 wickets,Chennai,Match #22,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-kolkata-knight-riders-22nd-match-1426260/full-scorecard
+PBKS,SRH,SRH,2 runs,Mullanpur,Match #23,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-sunrisers-hyderabad-23rd-match-1426261/full-scorecard
+RR,GT,GT,3 wickets,Jaipur,Match #24,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-gujarat-titans-24th-match-1426262/full-scorecard
+RCB,MI,MI,7 wickets,Wankhede,Match #25,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-royal-challengers-bengaluru-25th-match-1426263/full-scorecard
+LSG,DC,DC,6 wickets,Lucknow,Match #26,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-delhi-capitals-26th-match-1426264/full-scorecard
+PBKS,RR,RR,3 wickets,Mullanpur,Match #27,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-rajasthan-royals-27th-match-1426265/full-scorecard
+LSG,KKR,KKR,8 wickets,Eden Gardens,Match #28,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-lucknow-super-giants-28th-match-1426266/full-scorecard
+MI,CSK,CSK,20 runs,Wankhede,Match #29,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-chennai-super-kings-29th-match-1426267/full-scorecard
+RCB,SRH,SRH,25 runs,Bengaluru,Match #30,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-sunrisers-hyderabad-30th-match-1426268/full-scorecard
+KKR,RR,RR,2 wickets,Eden Gardens,Match #31,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-rajasthan-royals-31st-match-1426269/full-scorecard
+GT,DC,DC,6 wickets,Ahmedabad,Match #32,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-delhi-capitals-32nd-match-1426270/full-scorecard
+PBKS,MI,MI,9 runs,Mullanpur,Match #33,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-mumbai-indians-33rd-match-1426271/full-scorecard
+CSK,LSG,LSG,8 wickets,Lucknow,Match #34,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-chennai-super-kings-34th-match-1426272/full-scorecard
+DC,SRH,SRH,67 runs,Delhi,Match #35,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-sunrisers-hyderabad-35th-match-1426273/full-scorecard
+RCB,KKR,KKR,1 run,Eden Gardens,Match #36,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-royal-challengers-bengaluru-36th-match-1426274/full-scorecard
+PBKS,GT,GT,3 wickets,Mullanpur,Match #37,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-gujarat-titans-37th-match-1426275/full-scorecard
+MI,RR,RR,9 wickets,Jaipur,Match #38,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-mumbai-indians-38th-match-1426276/full-scorecard
+CSK,LSG,LSG,6 wickets,Chennai,Match #39,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-lucknow-super-giants-39th-match-1426277/full-scorecard
+GT,DC,DC,4 runs,Delhi,Match #40,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-gujarat-titans-40th-match-1426278/full-scorecard
+SRH,RCB,RCB,35 runs,Hyderabad,Match #41,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-royal-challengers-bengaluru-41st-match-1426279/full-scorecard
+KKR,PBKS,PBKS,8 wickets,Eden Gardens,Match #42,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-punjab-kings-42nd-match-1426280/full-scorecard
+MI,DC,DC,10 runs,Delhi,Match #43,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-mumbai-indians-43rd-match-1426281/full-scorecard
+LSG,RR,RR,7 wickets,Lucknow,Match #44,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-rajasthan-royals-44th-match-1426282/full-scorecard
+GT,RCB,RCB,9 wickets,Ahmedabad,Match #45,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-royal-challengers-bengaluru-45th-match-1426283/full-scorecard
+SRH,CSK,CSK,78 runs,Chennai,Match #46,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-sunrisers-hyderabad-46th-match-1426284/full-scorecard
+DC,KKR,KKR,7 wickets,Eden Gardens,Match #47,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-delhi-capitals-47th-match-1426285/full-scorecard
+MI,LSG,LSG,4 wickets,Lucknow,Match #48,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-mumbai-indians-48th-match-1426286/full-scorecard
+CSK,CSK,PBKS,7 wickets,Chennai,Match #49,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-punjab-kings-49th-match-1426287/full-scorecard
+RR,SRH,SRH,1 run,Hyderabad,Match #50,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-rajasthan-royals-50th-match-1426288/full-scorecard
+MI,PBKS,KKR,24 runs,Wankhede,Match #51,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-kolkata-knight-riders-51st-match-1426289/full-scorecard
+GT,RCB,RCB,4 wickets,Bengaluru,Match #52,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-gujarat-titans-52nd-match-1426290/full-scorecard
+PBKS,CSK,CSK,28 runs,Dharamsala,Match #53,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-chennai-super-kings-53rd-match-1426291/full-scorecard
+LSG,KKR,KKR,98 runs,Lucknow,Match #54,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/lucknow-super-giants-vs-kolkata-knight-riders-54th-match-1426292/full-scorecard
+SRH,MI,MI,7 wickets,Wankhede,Match #55,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-sunrisers-hyderabad-55th-match-1426293/full-scorecard
+RR,DC,DC,20 runs,Delhi,Match #56,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-rajasthan-royals-56th-match-1426294/full-scorecard
+LSG,SRH,SRH,10 wickets,Hyderabad,Match #57,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-lucknow-super-giants-57th-match-1426295/full-scorecard
+PBKS,RCB,RCB,60 runs,Dharamsala,Match #58,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/punjab-kings-vs-royal-challengers-bengaluru-58th-match-1426296/full-scorecard
+CSK,GT,GT,35 runs,Ahmedabad,Match #59,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-chennai-super-kings-59th-match-1426297/full-scorecard
+MI,KKR,KKR,18 runs,Eden Gardens,Match #60,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-mumbai-indians-60th-match-1426298/full-scorecard
+RR,CSK,CSK,5 wickets,Chennai,Match #61,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/chennai-super-kings-vs-rajasthan-royals-61st-match-1426299/full-scorecard
+DC,RCB,RCB,47 runs,Bengaluru,Match #62,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-delhi-capitals-62nd-match-1426300/full-scorecard
+GT,KKR,No result,Match abandoned without a ball bowled,Ahmedabad,Match #63,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/gujarat-titans-vs-kolkata-knight-riders-63rd-match-1426301/full-scorecard
+LSG,DC,DC,19 runs,Delhi,Match #64,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/delhi-capitals-vs-lucknow-super-giants-64th-match-1426302/full-scorecard
+RR,PBKS,PBKS,5 wickets,Guwahati,Match #65,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-punjab-kings-65th-match-1426303/full-scorecard
+SRH,GT,No result,Match abandoned without a ball bowled,Hyderabad,Match #66,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-gujarat-titans-66th-match-1426304/full-scorecard
+MI,LSG,LSG,18 runs,Wankhede,Match #67,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/mumbai-indians-vs-lucknow-super-giants-67th-match-1426305/full-scorecard
+CSK,RCB,RCB,27 runs,Bengaluru,Match #68,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/royal-challengers-bengaluru-vs-chennai-super-kings-68th-match-1426306/full-scorecard
+PBKS,SRH,SRH,4 wickets,Hyderabad,Match #69,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/sunrisers-hyderabad-vs-punjab-kings-69th-match-1426307/full-scorecard
+RR,KKR,No result,No result,Guwahati,Match #70,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-kolkata-knight-riders-70th-match-1426308/full-scorecard
+SRH,KKR,KKR,8 wickets,Ahmedabad,Match #Qualifier1,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-qualifier-1-1426309/full-scorecard
+RCB,RR,RR,4 wickets,Ahmedabad,Match #Eliminator,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-royal-challengers-bengaluru-eliminator-1426310/full-scorecard
+RR,SRH,SRH,36 runs,Chennai,Match #Match #Qualifier2,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/rajasthan-royals-vs-sunrisers-hyderabad-qualifier-2-1426311/full-scorecard
+SRH,KKR,KKR,8 wickets,Chennai,Match #Final,https://www.espncricinfo.com/series/indian-premier-league-2024-1410320/kolkata-knight-riders-vs-sunrisers-hyderabad-final-1426312/full-scorecard

@@ -1,0 +1,37 @@
+Openers
+Batting Average: > 30
+Strike Rate: > 145
+Innings Batted: > 5
+Boundary %: > 50%
+Playing role-top order batsman or all-rounder
+
+
+Middle Order
+Batting Average: > 40
+Strike Rate: > 125
+Innings Batted: > 3
+Avg. Balls Faced: > 20
+
+
+Lower Order 
+Batting Average: > 25
+Strike Rate: > 130
+Innings Batted: > 3
+Avg. Balls Faced: > 12
+playing role- all rounder or wicketkeeper batsman
+
+
+All-rounders
+Batting Average: > 15
+Strike Rate: > 13
+Innings Batted: > 2
+Innings Bowled: > 2
+Bowling Economy: < 10
+Bowling Strike Rate: < 25
+
+
+Bowlers
+Innings Bowled: > 4
+Bowling Economy: < 7
+Bowling Strike Rate: < 20
+Bowling Average: < 25

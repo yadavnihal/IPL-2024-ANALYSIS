@@ -1,0 +1,858 @@
+Match_ID,BattingTeam,team1,team2,BowlingTeam,Bowler,balls_bowled,runs_conceded,wickets,overs,economy_rate,,maiden_overs
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,AS Joseph,26,46,0,4,11.5,,0
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,C Green,21,27,2,3,9,,0
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,GJ Maxwell,6,7,0,1,7,,0
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,KV Sharma,12,24,1,2,12,,0
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Mayank Dagar,12,6,0,2,3,,1
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Mohammed Siraj,25,38,0,4,9.5,,0
+1422119,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Yash Dayal,18,28,1,3,9.33,,0
+1422119,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,DL Chahar,26,37,1,4,9.25,,0
+1422119,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,M Theekshana,24,37,0,4,9.25,,0
+1422119,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,26,30,4,4,7.5,,0
+1422119,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,RA Jadeja,24,22,0,4,5.5,,1
+1422119,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,TU Deshpande,29,47,1,4,11.75,,0
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,Arshdeep Singh,26,28,2,4,7,,0
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,HV Patel,24,48,4,4,12,,0
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,Harpreet Brar,18,14,1,3,4.67,,1
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,K Rabada,25,41,1,4,10.25,,0
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,RD Chahar,24,33,1,4,8.25,,0
+1422120,Delhi Capitals,Delhi Capitals,Punjab Kings,Punjab Kings,SM Curran,7,10,0,1,10,,0
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,AR Patel,24,26,0,4,6.5,,0
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,I Sharma,15,16,2,2,8,,0
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,KK Ahmed,24,43,2,4,10.75,,0
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,Kuldeep Yadav,24,21,2,4,5.25,,1
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,MR Marsh,25,52,0,4,13,,0
+1422120,Punjab Kings,Delhi Capitals,Punjab Kings,Delhi Capitals,Sumit Kumar,10,19,0,1,19,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,27,51,0,4,12.75,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,M Jansen,19,40,1,3,13.33,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,M Markande,24,39,2,4,9.75,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,24,32,1,4,8,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,7,14,0,1,14,,0
+1422121,Kolkata Knight Riders,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,27,32,3,4,8,,0
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,AD Russell,12,26,2,2,13,,0
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,CV Varun,24,55,1,4,13.75,,0
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Harshit Rana,24,33,3,4,8.25,,0
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,MA Starc,26,53,0,4,13.25,,0
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,SP Narine,24,19,1,4,4.75,,1
+1422121,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Suyash Sharma,12,18,0,2,9,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Avesh Khan,19,21,0,3,7,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,N Burger,18,34,1,3,11.33,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,R Ashwin,25,35,1,4,8.75,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Sandeep Sharma,19,23,1,3,7.67,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,TA Boult,24,35,2,4,8.75,,0
+1422122,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,YS Chahal,19,25,1,3,8.33,,0
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,A Badoni,6,6,0,1,6,,0
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,KH Pandya,24,20,0,4,5,,1
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,25,45,1,4,11.25,,0
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,28,41,2,4,10.25,,0
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,24,38,1,4,9.5,,0
+1422122,Rajasthan Royals,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,20,43,0,3,14.33,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,G Coetzee,24,29,2,4,7.25,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,HH Pandya,18,30,0,3,10,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,JJ Bumrah,24,15,3,4,3.75,,2
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,L Wood,14,26,0,2,13,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,Naman Dhir,6,13,0,1,13,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,PP Chawla,19,31,1,3,10.33,,0
+1422123,Gujarat Titans,Gujarat Titans,Mumbai Indians,Mumbai Indians,SZ Mulani,19,24,0,3,8,,0
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,Azmatullah Omarzai,20,27,2,3,9,,0
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,MM Sharma,25,32,2,4,8,,0
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,R Sai Kishore,24,24,1,4,6,,0
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,Rashid Khan,24,23,0,4,5.75,,1
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,SH Johnson,12,25,2,2,12.5,,0
+1422123,Mumbai Indians,Gujarat Titans,Mumbai Indians,Gujarat Titans,UT Yadav,18,31,2,3,10.33,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,AS Joseph,26,43,1,4,10.75,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,C Green,13,19,0,2,9.5,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,GJ Maxwell,18,29,2,3,9.67,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mayank Dagar,18,34,0,3,11.33,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,24,27,2,4,6.75,,0
+1422124,Punjab Kings,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,26,24,1,4,6,,0
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Arshdeep Singh,23,42,0,3,14,,0
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,HV Patel,27,45,1,4,11.25,,0
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Harpreet Brar,24,17,2,4,4.25,,2
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,K Rabada,25,28,2,4,7,,0
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,RD Chahar,6,16,0,1,16,,0
+1422124,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,SM Curran,18,30,1,3,10,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,19,31,0,3,10.33,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,MM Sharma,25,36,2,4,9,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,R Sai Kishore,20,28,1,3,9.33,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Rashid Khan,24,49,2,4,12.25,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,SH Johnson,24,35,1,4,8.75,,0
+1422125,Chennai Super Kings,Chennai Super Kings,Gujarat Titans,Gujarat Titans,UT Yadav,13,27,0,2,13.5,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,DJ Mitchell,13,18,1,2,9,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,DL Chahar,27,28,2,4,7,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,M Pathirana,28,29,1,4,7.25,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Mustafizur Rahman,24,31,2,4,7.75,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,RA Jadeja,12,15,0,2,7.5,,0
+1422125,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,TU Deshpande,24,22,2,4,5.5,,1
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,B Kumar,24,57,0,4,14.25,,0
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,JD Unadkat,26,47,2,4,11.75,,0
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,M Markande,26,52,0,4,13,,0
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,PJ Cummins,25,35,2,4,8.75,,0
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Shahbaz Ahmed,18,40,1,3,13.33,,0
+1422126,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Umran Malik,7,15,0,1,15,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,G Coetzee,27,61,1,4,15.25,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,HH Pandya,24,46,1,4,11.5,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,JJ Bumrah,26,36,0,4,9,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,KT Maphaka,27,67,0,4,16.75,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,PP Chawla,12,34,1,2,17,,0
+1422126,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,SZ Mulani,14,33,0,2,16.5,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Avesh Khan,25,29,1,4,7.25,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,N Burger,18,30,2,3,10,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,R Ashwin,19,30,0,3,10,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Sandeep Sharma,26,36,0,4,9,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,TA Boult,18,29,0,3,9.67,,0
+1422127,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,YS Chahal,18,19,2,3,6.33,,0
+1422127,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,A Nortje,24,50,1,4,12.5,,0
+1422127,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,AR Patel,24,21,1,4,5.25,,1
+1422127,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,KK Ahmed,26,24,1,4,6,,0
+1422127,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,26,41,1,4,10.25,,0
+1422127,Rajasthan Royals,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Mukesh Kumar,25,49,1,4,12.25,,0
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,AS Joseph,12,34,0,2,17,,0
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,C Green,6,7,0,1,7,,0
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Mayank Dagar,17,25,1,2,12.5,,0
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Mohammed Siraj,20,46,0,3,15.33,,0
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Vijaykumar Vyshak,24,23,1,4,5.75,,1
+1422128,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Yash Dayal,26,51,1,4,12.75,,0
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,AD Russell,25,30,2,4,7.5,,0
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,AS Roy,12,6,0,2,3,,1
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,CV Varun,12,20,0,2,10,,0
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,25,39,2,4,9.75,,0
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,MA Starc,25,47,1,4,11.75,,0
+1422128,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,SP Narine,24,40,1,4,10,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,Arshdeep Singh,19,30,2,3,10,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,HV Patel,28,46,1,4,11.5,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,Harpreet Brar,12,14,0,2,7,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,K Rabada,24,39,1,4,9.75,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,RD Chahar,18,42,1,3,14,,0
+1422129,Lucknow Super Giants,Lucknow Super Giants,Punjab Kings,Punjab Kings,SM Curran,24,28,3,4,7,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,KH Pandya,18,26,0,3,8.67,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,M Siddharth,12,21,0,2,10.5,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,MP Yadav,24,28,3,4,7,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Mohsin Khan,25,34,2,4,8.5,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Naveen-ul-Haq,25,44,0,4,11,,0
+1422129,Punjab Kings,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Ravi Bishnoi,18,25,0,3,8.33,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,B Kumar,25,27,0,4,6.75,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,JD Unadkat,19,33,0,3,11,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,M Markande,20,33,1,3,11,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,PJ Cummins,25,28,1,4,7,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Shahbaz Ahmed,12,20,1,2,10,,0
+1422130,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Washington Sundar,18,27,0,3,9,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,19,25,1,3,8.33,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,DG Nalkande,13,18,0,2,9,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,MM Sharma,24,25,4,4,6.25,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Noor Ahmad,24,32,1,4,8,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Rashid Khan,24,33,1,4,8.25,,0
+1422130,Sunrisers Hyderabad,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,UT Yadav,18,29,1,3,9.67,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,A Nortje,25,45,0,4,11.25,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,AR Patel,18,20,1,3,6.67,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,I Sharma,20,23,0,3,7.67,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,KK Ahmed,28,22,2,4,5.5,,1
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,MR Marsh,7,14,0,1,14,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Mukesh Kumar,19,21,3,3,7,,0
+1422131,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Rasikh Salam,12,26,0,2,13,,0
+1422131,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,DL Chahar,24,42,0,4,10.5,,0
+1422131,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,M Pathirana,26,32,3,4,8,,0
+1422131,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,27,50,1,4,12.5,,0
+1422131,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,RA Jadeja,24,43,1,4,10.75,,0
+1422131,Delhi Capitals,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,TU Deshpande,26,24,0,4,6,,0
+1422132,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Avesh Khan,25,31,1,4,7.75,,0
+1422132,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,N Burger,25,33,2,4,8.25,,0
+1422132,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,R Ashwin,25,27,0,4,6.75,,0
+1422132,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,TA Boult,25,23,3,4,5.75,,1
+1422132,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,YS Chahal,24,11,3,4,2.75,,3
+1422132,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Akash Madhwal,25,22,3,4,5.5,,1
+1422132,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,G Coetzee,15,37,0,2,18.5,,0
+1422132,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,JJ Bumrah,29,27,0,4,6.75,,0
+1422132,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,KT Maphaka,12,23,1,2,11.5,,0
+1422132,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,PP Chawla,18,18,0,3,6,,0
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,C Green,12,25,0,2,12.5,,0
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,GJ Maxwell,25,23,2,4,5.75,,1
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mayank Dagar,13,23,0,2,11.5,,0
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,27,47,1,4,11.75,,0
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,RJW Topley,25,39,1,4,9.75,,0
+1422133,Lucknow Super Giants,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,24,24,1,4,6,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,KH Pandya,6,10,0,1,10,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,M Siddharth,18,21,1,3,7,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,MP Stoinis,7,9,1,1,9,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,MP Yadav,24,15,4,4,3.75,,2
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,Naveen-ul-Haq,23,26,2,3,8.67,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,Ravi Bishnoi,20,33,0,3,11,,0
+1422133,Royal Challengers Bengaluru,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,Yash Thakur,24,39,2,4,9.75,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,AD Russell,8,14,1,1,14,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,CV Varun,27,38,3,4,9.5,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,MA Starc,18,29,2,3,9.67,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,SP Narine,24,30,1,4,7.5,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,VG Arora,27,27,3,4,6.75,,0
+1422134,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,VR Iyer,6,28,0,1,28,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,A Nortje,26,59,3,4,14.75,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,AR Patel,6,19,0,1,19,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,I Sharma,18,44,2,3,14.67,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,KK Ahmed,31,47,1,5,9.4,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,MR Marsh,22,37,1,3,12.33,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Rasikh Salam,19,47,0,3,15.67,,0
+1422134,Kolkata Knight Riders,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Sumit Kumar,12,19,0,2,9.5,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,Arshdeep Singh,24,37,0,4,9.25,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,HV Patel,27,44,1,4,11,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,Harpreet Brar,24,33,1,4,8.25,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,K Rabada,25,44,2,4,11,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,SM Curran,12,19,0,2,9.5,,0
+1422135,Gujarat Titans,Gujarat Titans,Punjab Kings,Punjab Kings,Sikandar Raza,12,22,0,2,11,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,Azmatullah Omarzai,25,42,1,4,10.5,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,DG Nalkande,6,7,1,1,7,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,MM Sharma,24,40,1,4,10,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,Noor Ahmad,26,33,2,4,8.25,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,Rashid Khan,24,43,1,4,10.75,,0
+1422135,Punjab Kings,Gujarat Titans,Punjab Kings,Gujarat Titans,UT Yadav,18,35,1,3,11.67,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Abhishek Sharma,6,7,0,1,7,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,24,28,1,4,7,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,JD Unadkat,25,30,1,4,7.5,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,M Markande,12,21,0,2,10.5,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,24,29,1,4,7.25,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,6,11,1,1,11,,0
+1422136,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,24,39,1,4,9.75,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,DL Chahar,19,32,1,3,10.67,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,M Theekshana,24,28,1,4,7,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,MM Ali,19,23,2,3,7.67,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Mukesh Choudhary,7,27,0,1,27,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,R Ravindra,6,3,0,1,3,,1
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,RA Jadeja,24,30,0,4,7.5,,0
+1422136,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,TU Deshpande,12,23,0,2,11.5,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,C Green,20,27,0,3,9,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,H Sharma,12,29,0,2,14.5,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Mayank Dagar,12,34,0,2,17,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Mohammed Siraj,25,35,1,4,8.75,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,RJW Topley,25,27,2,4,6.75,,0
+1422137,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Yash Dayal,24,37,1,4,9.25,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Avesh Khan,24,46,0,4,11.5,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,N Burger,26,34,1,4,8.5,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,R Ashwin,25,28,0,4,7,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,R Parag,6,10,0,1,10,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,TA Boult,19,31,0,3,10.33,,0
+1422137,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,YS Chahal,25,34,2,4,8.5,,0
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,Akash Madhwal,25,45,0,4,11.25,,0
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,G Coetzee,24,35,4,4,8.75,,0
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,JJ Bumrah,24,22,2,4,5.5,,1
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,Mohammad Nabi,12,17,0,2,8.5,,0
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,PP Chawla,12,32,0,2,16,,0
+1422138,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mumbai Indians,R Shepherd,25,54,2,4,13.5,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,A Nortje,28,65,2,4,16.25,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,AR Patel,24,35,2,4,8.75,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,I Sharma,22,40,0,3,13.33,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,JA Richardson,25,40,0,4,10,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,KK Ahmed,24,39,1,4,9.75,,0
+1422138,Mumbai Indians,Mumbai Indians,Delhi Capitals,Delhi Capitals,Lalit Yadav,6,15,0,1,15,,0
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,KH Pandya,24,11,3,4,2.75,,3
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,M Siddharth,28,30,0,4,7.5,,0
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,MP Yadav,6,13,0,1,13,,0
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Naveen-ul-Haq,26,37,1,4,9.25,,0
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Ravi Bishnoi,13,8,1,2,4,,1
+1422139,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Yash Thakur,25,31,5,4,7.75,,0
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,DG Nalkande,12,21,2,2,10.5,,0
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,MM Sharma,18,34,0,3,11.33,,0
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Noor Ahmad,24,22,0,4,5.5,,1
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Rashid Khan,24,28,1,4,7,,0
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,SH Johnson,25,36,0,4,9,,0
+1422139,Lucknow Super Giants,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,UT Yadav,18,22,2,3,7.33,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,AD Russell,7,8,0,1,8,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,AS Roy,10,18,0,1,18,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,CV Varun,24,28,0,4,7,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,MA Starc,20,29,0,3,9.67,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,SP Narine,24,30,1,4,7.5,,0
+1426260,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,VG Arora,24,28,2,4,7,,0
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,M Theekshana,24,28,1,4,7,,0
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Mustafizur Rahman,27,23,2,4,5.75,,1
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,R Ravindra,6,4,0,1,4,,1
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,RA Jadeja,25,18,3,4,4.5,,1
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,SN Thakur,20,27,0,3,9,,0
+1426260,Kolkata Knight Riders,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,TU Deshpande,26,37,3,4,9.25,,0
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,B Kumar,26,33,2,4,8.25,,0
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,JD Unadkat,27,49,1,4,12.25,,0
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Nithish Kumar Reddy,19,33,1,3,11,,0
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,PJ Cummins,24,22,1,4,5.5,,1
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Shahbaz Ahmed,6,10,0,1,10,,0
+1426261,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,T Natarajan,24,33,1,4,8.25,,0
+1426261,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Arshdeep Singh,26,29,4,4,7.25,,0
+1426261,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,HV Patel,25,30,2,4,7.5,,0
+1426261,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Harpreet Brar,24,49,0,4,12.25,,0
+1426261,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,K Rabada,25,33,1,4,8.25,,0
+1426261,Sunrisers Hyderabad,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,SM Curran,25,41,2,4,10.25,,0
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Avesh Khan,26,48,2,4,12,,0
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,KA Maharaj,12,16,0,2,8,,0
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,KR Sen,29,42,3,4,10.5,,0
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,R Ashwin,24,41,0,4,10.25,,0
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,TA Boult,12,8,0,2,4,,1
+1426262,Gujarat Titans,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,YS Chahal,25,44,2,4,11,,0
+1426262,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,Gujarat Titans,MM Sharma,28,51,1,4,12.75,,0
+1426262,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Noor Ahmad,25,43,0,4,10.75,,0
+1426262,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Rashid Khan,24,18,1,4,4.5,,1
+1426262,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,Gujarat Titans,SH Johnson,24,37,0,4,9.25,,0
+1426262,Rajasthan Royals,Rajasthan Royals,Gujarat Titans,Gujarat Titans,UT Yadav,26,47,1,4,11.75,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,Akash Deep,23,55,1,3,18.33,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,GJ Maxwell,6,17,0,1,17,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,Mohammed Siraj,18,37,0,3,12.33,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,RJW Topley,19,34,0,3,11.33,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,Vijaykumar Vyshak,18,32,1,3,10.67,,0
+1426263,Mumbai Indians,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,WG Jacks,12,24,1,2,12,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Akash Madhwal,27,57,1,4,14.25,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,G Coetzee,27,42,1,4,10.5,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,HH Pandya,8,13,0,1,13,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,JJ Bumrah,24,22,5,4,5.5,,1
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,Mohammad Nabi,6,7,0,1,7,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,R Shepherd,12,23,0,2,11.5,,0
+1426263,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,S Gopal,24,32,1,4,8,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Arshad Khan,19,34,0,3,11.33,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,KH Pandya,21,46,0,3,15.33,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,MP Stoinis,6,10,0,1,10,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Naveen-ul-Haq,18,24,1,3,8,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Ravi Bishnoi,24,25,2,4,6.25,,0
+1426264,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Yash Thakur,24,31,1,4,7.75,,0
+1426264,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,AR Patel,24,27,0,4,6.75,,0
+1426264,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,I Sharma,28,36,1,4,9,,0
+1426264,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,KK Ahmed,25,43,2,4,10.75,,0
+1426264,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,25,20,3,4,5,,1
+1426264,Lucknow Super Giants,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,Mukesh Kumar,25,41,1,4,10.25,,0
+1426265,Punjab Kings,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Avesh Khan,24,35,2,4,8.75,,0
+1426265,Punjab Kings,Punjab Kings,Rajasthan Royals,Rajasthan Royals,KA Maharaj,24,23,2,4,5.75,,1
+1426265,Punjab Kings,Punjab Kings,Rajasthan Royals,Rajasthan Royals,KR Sen,24,35,1,4,8.75,,0
+1426265,Punjab Kings,Punjab Kings,Rajasthan Royals,Rajasthan Royals,TA Boult,26,22,1,4,5.5,,1
+1426265,Punjab Kings,Punjab Kings,Rajasthan Royals,Rajasthan Royals,YS Chahal,27,32,2,4,8,,0
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,Arshdeep Singh,24,45,1,4,11.25,,0
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,HV Patel,12,21,1,2,10.5,,0
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,Harpreet Brar,18,22,0,3,7.33,,0
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,K Rabada,24,18,2,4,4.5,,1
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,LS Livingstone,19,21,1,3,7,,0
+1426265,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Punjab Kings,SM Curran,25,25,2,4,6.25,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Arshad Khan (2),13,25,0,2,12.5,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,KH Pandya,6,14,0,1,14,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Mohsin Khan,25,29,2,4,7.25,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Ravi Bishnoi,18,18,0,3,6,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,S Joseph,30,51,0,5,10.2,,0
+1426266,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Yash Thakur,13,25,0,2,12.5,,0
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,AD Russell,6,16,1,1,16,,0
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,CV Varun,26,30,1,4,7.5,,0
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,26,35,0,4,8.75,,0
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,MA Starc,25,29,3,4,7.25,,0
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,SP Narine,24,17,1,4,4.25,,2
+1426266,Lucknow Super Giants,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,VG Arora,20,34,1,3,11.33,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Akash Madhwal,18,37,0,3,12.33,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,G Coetzee,25,37,1,4,9.25,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,HH Pandya,20,43,2,3,14.33,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,JJ Bumrah,26,27,0,4,6.75,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Mohammad Nabi,18,19,0,3,6.33,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,R Shepherd,12,34,0,2,17,,0
+1426267,Chennai Super Kings,Chennai Super Kings,Mumbai Indians,Mumbai Indians,S Gopal,6,9,1,1,9,,0
+1426267,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,M Pathirana,25,30,4,4,7.5,,0
+1426267,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Mustafizur Rahman,27,55,1,4,13.75,,0
+1426267,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,RA Jadeja,24,37,0,4,9.25,,0
+1426267,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,SN Thakur,24,35,0,4,8.75,,0
+1426267,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,TU Deshpande,24,29,1,4,7.25,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Abhishek Sharma,6,10,0,1,10,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,B Kumar,28,60,0,4,15,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,JD Unadkat,13,37,1,2,18.5,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,M Markande,27,46,2,4,11.5,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,PJ Cummins,25,43,3,4,10.75,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Shahbaz Ahmed,6,18,0,1,18,,0
+1426268,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,T Natarajan,28,48,1,4,12,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,LH Ferguson,24,54,2,4,13.5,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,MK Lomror,9,18,0,1,18,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,RJW Topley,26,68,1,4,17,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Vijaykumar Vyshak,26,64,0,4,16,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,WG Jacks,19,32,0,3,10.67,,0
+1426268,Sunrisers Hyderabad,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,28,51,0,4,12.75,,0
+1426269,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Avesh Khan,25,39,2,4,9.75,,0
+1426269,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,KR Sen,26,50,2,4,12.5,,0
+1426269,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,R Ashwin,29,49,0,4,12.25,,0
+1426269,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,TA Boult,24,31,1,4,7.75,,0
+1426269,Kolkata Knight Riders,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,YS Chahal,25,54,1,4,13.5,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,AD Russell,6,17,0,1,17,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,CV Varun,25,36,2,4,9,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Harshit Rana,25,45,2,4,11.25,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,MA Starc,29,50,1,4,12.5,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,SP Narine,26,31,2,4,7.75,,0
+1426269,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,VG Arora,19,45,1,3,15,,0
+1426270,Delhi Capitals,Gujarat Titans,Delhi Capitals,Gujarat Titans,Noor Ahmad,11,15,0,1,15,,0
+1426270,Delhi Capitals,Gujarat Titans,Delhi Capitals,Gujarat Titans,Rashid Khan,12,12,1,2,6,,0
+1426270,Delhi Capitals,Gujarat Titans,Delhi Capitals,Gujarat Titans,S Sandeep Warrier,18,43,2,3,14.33,,0
+1426270,Delhi Capitals,Gujarat Titans,Delhi Capitals,Gujarat Titans,SH Johnson,14,22,1,2,11,,0
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,AR Patel,25,17,1,4,4.25,,2
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,I Sharma,13,8,3,2,4,,1
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,KK Ahmed,25,20,1,4,5,,1
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,24,18,0,4,4.5,,1
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,Mukesh Kumar,18,15,3,3,5,,1
+1426270,Gujarat Titans,Gujarat Titans,Delhi Capitals,Delhi Capitals,T Stubbs,7,11,2,1,11,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,Arshdeep Singh,19,35,0,3,11.67,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,HV Patel,26,35,4,4,8.75,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,Harpreet Brar,18,21,0,3,7,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,K Rabada,24,43,1,4,10.75,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,LS Livingstone,12,16,0,2,8,,0
+1426271,Mumbai Indians,Mumbai Indians,Punjab Kings,Punjab Kings,SM Curran,26,42,2,4,10.5,,0
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,Akash Madhwal,24,48,2,4,12,,0
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,G Coetzee,26,34,3,4,8.5,,0
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,HH Pandya,27,33,1,4,8.25,,0
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,JJ Bumrah,26,21,3,4,5.25,,1
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,R Shepherd,12,21,0,2,10.5,,0
+1426271,Punjab Kings,Mumbai Indians,Punjab Kings,Mumbai Indians,S Gopal,12,26,1,2,13,,0
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,KH Pandya,18,16,2,3,5.33,,1
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MJ Henry,18,26,0,3,8.67,,0
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MP Stoinis,12,7,1,2,3.5,,1
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,27,37,1,4,9.25,,0
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,24,44,1,4,11,,0
+1426272,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,24,46,1,4,11.5,,0
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,DL Chahar,18,26,0,3,8.67,,0
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,M Pathirana,26,31,1,4,7.75,,0
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,MM Ali,6,5,0,1,5,,1
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Mustafizur Rahman,26,43,1,4,10.75,,0
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,RA Jadeja,19,32,0,3,10.67,,0
+1426272,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,TU Deshpande,29,43,0,4,10.75,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,B Kumar,27,34,1,4,8.5,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,M Markande,14,26,2,2,13,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Nithish Kumar Reddy,14,17,2,2,8.5,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,PJ Cummins,24,35,0,4,8.75,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Shahbaz Ahmed,6,22,0,1,22,,0
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,T Natarajan,25,19,4,4,4.75,,1
+1426273,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Washington Sundar,12,46,1,2,23,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,A Nortje,19,31,0,3,10.33,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,AR Patel,24,29,1,4,7.25,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,KK Ahmed,18,52,0,3,17.33,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,26,55,4,4,13.75,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Lalit Yadav,12,42,0,2,21,,0
+1426273,Sunrisers Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Mukesh Kumar,24,57,2,4,14.25,,0
+1426274,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,C Green,26,36,2,4,9,,0
+1426274,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,KV Sharma,24,34,0,4,8.5,,0
+1426274,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,LH Ferguson,25,47,1,4,11.75,,0
+1426274,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,26,44,1,4,11,,0
+1426274,Kolkata Knight Riders,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,28,61,2,4,15.25,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,AD Russell,19,27,3,3,9,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,CV Varun,24,36,1,4,9,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Harshit Rana,25,33,2,4,8.25,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,MA Starc,19,56,2,3,18.67,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,SP Narine,24,36,2,4,9,,0
+1426274,Royal Challengers Bengaluru,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,Suyash Sharma,13,33,0,2,16.5,,0
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,Arshdeep Singh,13,17,1,2,8.5,,0
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,HV Patel,18,15,3,3,5,,1
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,Harpreet Brar,24,35,0,4,8.75,,0
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,K Rabada,24,40,0,4,10,,0
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,LS Livingstone,25,21,2,4,5.25,,1
+1426275,Gujarat Titans,Punjab Kings,Gujarat Titans,Punjab Kings,SM Curran,12,18,1,2,9,,0
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,12,13,0,2,6.5,,0
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,M Shahrukh Khan,6,7,0,1,7,,0
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,MM Sharma,25,33,3,4,8.25,,0
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,Noor Ahmad,24,20,2,4,5,,1
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,R Sai Kishore,25,33,4,4,8.25,,0
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,Rashid Khan,24,15,1,4,3.75,,2
+1426275,Punjab Kings,Punjab Kings,Gujarat Titans,Gujarat Titans,S Sandeep Warrier,7,21,0,1,21,,0
+1426276,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Avesh Khan,27,49,1,4,12.25,,0
+1426276,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,R Ashwin,25,31,0,4,7.75,,0
+1426276,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,24,18,5,4,4.5,,1
+1426276,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,TA Boult,27,33,2,4,8.25,,0
+1426276,Mumbai Indians,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,YS Chahal,25,48,1,4,12,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,G Coetzee,15,25,0,2,12.5,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,HH Pandya,12,21,0,2,10.5,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,JJ Bumrah,26,37,0,4,9.25,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Mohammad Nabi,18,31,0,3,10.33,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,N Thushara,18,28,0,3,9.33,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,PP Chawla,24,33,1,4,8.25,,0
+1426276,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Tilak Varma,4,8,0,0,9.5,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,KH Pandya,12,16,0,2,8,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MJ Henry,24,28,1,4,7,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,MP Stoinis,25,50,1,4,12.5,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,24,50,1,4,12.5,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,12,19,0,2,9.5,,0
+1426277,Chennai Super Kings,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,25,47,1,4,11.75,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,DL Chahar,12,11,1,2,5.5,,1
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,M Pathirana,26,36,2,4,9,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,MM Ali,12,21,0,2,10.5,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Mustafizur Rahman,22,51,1,3,17,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,RA Jadeja,13,17,0,2,8.5,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,SN Thakur,19,42,0,3,14,,0
+1426277,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,TU Deshpande,19,35,0,3,11.67,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,Azmatullah Omarzai,24,34,0,4,8.5,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,M Shahrukh Khan,6,9,0,1,9,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,MM Sharma,25,73,0,4,18.25,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,Noor Ahmad,19,36,1,3,12,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,R Sai Kishore,6,22,0,1,22,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,Rashid Khan,24,35,0,4,8.75,,0
+1426278,Delhi Capitals,Delhi Capitals,Gujarat Titans,Gujarat Titans,S Sandeep Warrier,19,15,3,3,5,,1
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,A Nortje,18,48,1,3,16,,0
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,AR Patel,18,28,1,3,9.33,,0
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,KK Ahmed,13,26,0,2,13,,0
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,Kuldeep Yadav,25,29,2,4,7.25,,0
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,Mukesh Kumar,25,45,1,4,11.25,,0
+1426278,Gujarat Titans,Delhi Capitals,Gujarat Titans,Delhi Capitals,Rasikh Salam,25,44,3,4,11,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Abhishek Sharma,6,10,0,1,10,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,6,14,0,1,14,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,JD Unadkat,26,31,3,4,7.75,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,M Markande,19,42,1,3,14,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,25,55,1,4,13.75,,0
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,18,14,0,3,4.67,,1
+1426279,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,25,40,2,4,10,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,C Green,13,12,2,2,6,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,KV Sharma,26,29,2,4,7.25,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,LH Ferguson,12,28,0,2,14,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Mohammed Siraj,26,21,0,4,5.25,,1
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Swapnil Singh,19,40,2,3,13.33,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,WG Jacks,12,23,1,2,11.5,,0
+1426279,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,Yash Dayal,21,18,1,3,6,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Arshdeep Singh,29,45,2,4,11.25,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,HV Patel,20,49,2,3,16.33,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Harpreet Brar,12,21,0,2,10.5,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,K Rabada,22,52,0,3,17.33,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,RD Chahar,24,34,1,4,8.5,,0
+1426280,Kolkata Knight Riders,Kolkata Knight Riders,Punjab Kings,Punjab Kings,SM Curran,24,60,1,4,15,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,AD Russell,14,36,0,2,18,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,AS Roy,12,36,1,2,18,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,CV Varun,18,46,0,3,15.33,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Harshit Rana,25,62,0,4,15.5,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,PVD Chameera,19,49,0,3,16.33,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Ramandeep Singh,4,9,0,0,9.5,,0
+1426280,Punjab Kings,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,SP Narine,24,24,1,4,6,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,HH Pandya,12,41,0,2,20.5,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,JJ Bumrah,27,36,1,4,9,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,L Wood,24,68,1,4,17,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,Mohammad Nabi,12,20,1,2,10,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,N Thushara,26,56,0,4,14,,0
+1426281,Delhi Capitals,Delhi Capitals,Mumbai Indians,Mumbai Indians,PP Chawla,26,36,1,4,9,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,AR Patel,12,24,0,2,12,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,KK Ahmed,24,47,2,4,11.75,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,Kuldeep Yadav,19,47,0,3,15.67,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,LB Williams,22,34,0,3,11.33,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,Mukesh Kumar,24,60,4,4,15,,0
+1426281,Mumbai Indians,Delhi Capitals,Mumbai Indians,Delhi Capitals,Rasikh Salam,27,35,3,4,8.75,,0
+1426282,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Avesh Khan,26,43,1,4,10.75,,0
+1426282,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,R Ashwin,26,40,1,4,10,,0
+1426282,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,25,31,2,4,7.75,,0
+1426282,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,TA Boult,26,41,1,4,10.25,,0
+1426282,Lucknow Super Giants,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,YS Chahal,25,41,0,4,10.25,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,A Mishra,12,20,1,2,10,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,KH Pandya,24,24,0,4,6,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,MJ Henry,18,34,0,3,11.33,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,MP Stoinis,6,3,1,1,3,,1
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Mohsin Khan,24,52,0,4,13,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Ravi Bishnoi,6,16,0,1,16,,0
+1426282,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Yash Thakur,26,50,1,4,12.5,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,C Green,19,42,0,3,14,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,GJ Maxwell,18,28,1,3,9.33,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,KV Sharma,19,38,0,3,12.67,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,28,34,1,4,8.5,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Swapnil Singh,18,23,1,3,7.67,,0
+1426283,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,28,35,0,4,8.75,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Azmatullah Omarzai,12,22,0,2,11,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,MM Sharma,13,41,0,2,20.5,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Noor Ahmad,25,47,0,4,11.75,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,R Sai Kishore,18,30,1,3,10,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Rashid Khan,24,51,0,4,12.75,,0
+1426283,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,S Sandeep Warrier,8,15,0,1,15,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,24,39,1,4,9.75,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,JD Unadkat,25,38,1,4,9.5,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Nithish Kumar Reddy,7,9,0,1,9,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,25,50,0,4,12.5,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,18,33,0,3,11,,0
+1426284,Chennai Super Kings,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,27,43,1,4,10.75,,0
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,DL Chahar,18,22,0,3,7.33,,0
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,M Pathirana,14,17,2,2,8.5,,0
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Mustafizur Rahman,17,19,2,2,9.5,,0
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,RA Jadeja,24,22,1,4,5.5,,1
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,SN Thakur,25,27,1,4,6.75,,0
+1426284,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,TU Deshpande,18,27,4,3,9,,0
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,AD Russell,6,10,0,1,10,,0
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,CV Varun,24,16,3,4,4,,2
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,25,29,2,4,7.25,,0
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,MA Starc,20,43,1,3,14.33,,0
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,SP Narine,24,24,1,4,6,,0
+1426285,Delhi Capitals,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,VG Arora,27,31,2,4,7.75,,0
+1426285,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,AR Patel,24,25,2,4,6.25,,0
+1426285,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,KK Ahmed,18,28,0,3,9.33,,0
+1426285,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Kuldeep Yadav,24,34,0,4,8.5,,0
+1426285,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,LB Williams,20,40,1,3,13.33,,0
+1426285,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Rasikh Salam,15,30,0,2,15,,0
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,G Coetzee,21,33,1,3,11,,0
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,HH Pandya,25,26,3,4,6.5,,0
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,JJ Bumrah,24,17,0,4,4.25,,2
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mohammad Nabi,8,16,1,1,16,,0
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,N Thushara,26,30,1,4,7.5,,0
+1426286,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,PP Chawla,18,23,0,3,7.67,,0
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,DJ Hooda,12,13,0,2,6.5,,0
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,MP Stoinis,19,19,1,3,6.33,,0
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,MP Yadav,22,32,1,3,10.67,,0
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,24,36,2,4,9,,0
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,24,16,2,4,4,,2
+1426286,Mumbai Indians,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,25,28,1,4,7,,0
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,Arshdeep Singh,29,52,2,4,13,,0
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,HV Patel,7,12,0,1,12,,0
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,Harpreet Brar,25,17,2,4,4.25,,2
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,K Rabada,25,24,1,4,6,,0
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,RD Chahar,24,16,2,4,4,,2
+1426287,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,SM Curran,19,41,0,3,13.67,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,DL Chahar,2,4,0,0,9.5,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,MM Ali,12,22,0,2,11,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Mustafizur Rahman,29,22,0,4,5.5,,1
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,RA Jadeja,18,22,0,3,7.33,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,RJ Gleeson,25,31,1,4,7.75,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,S Dube,6,14,1,1,14,,0
+1426287,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,SN Thakur,24,48,1,4,12,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,B Kumar,24,41,3,4,10.25,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,JD Unadkat,14,23,0,2,11.5,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,M Jansen,29,44,0,4,11,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Nithish Kumar Reddy,8,12,0,1,12,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,PJ Cummins,24,34,2,4,8.5,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Shahbaz Ahmed,6,11,0,1,11,,0
+1426288,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,T Natarajan,27,35,2,4,8.75,,0
+1426288,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Avesh Khan,27,39,2,4,9.75,,0
+1426288,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,R Ashwin,25,36,0,4,9,,0
+1426288,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,26,31,1,4,7.75,,0
+1426288,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,TA Boult,25,33,0,4,8.25,,0
+1426288,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,YS Chahal,25,62,0,4,15.5,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,G Coetzee,12,24,0,2,12,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,HH Pandya,25,44,3,4,11,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,JJ Bumrah,23,18,3,3,6,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,N Thushara,28,43,3,4,10.75,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Naman Dhir,19,25,0,3,8.33,,0
+1426289,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,PP Chawla,18,15,1,3,5,,1
+1426289,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,AD Russell,25,33,2,4,8.25,,0
+1426289,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,CV Varun,24,22,2,4,5.5,,1
+1426289,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,MA Starc,24,33,4,4,8.25,,0
+1426289,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,SP Narine,25,22,2,4,5.5,,1
+1426289,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,VG Arora,20,35,0,3,11.67,,0
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,C Green,24,28,1,4,7,,0
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,KV Sharma,18,43,1,3,14.33,,0
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mohammed Siraj,27,29,2,4,7.25,,0
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Swapnil Singh,6,1,0,1,1,,1
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Vijaykumar Vyshak,22,24,4,3,8,,0
+1426290,Gujarat Titans,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Yash Dayal,24,22,2,4,5.5,,1
+1426290,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,J Little,25,45,4,4,11.25,,0
+1426290,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,MJ Suthar,12,26,0,2,13,,0
+1426290,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,MM Sharma,12,32,0,2,16,,0
+1426290,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Noor Ahmad,24,24,2,4,6,,0
+1426290,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,Gujarat Titans,Rashid Khan,10,25,0,1,25,,0
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,Arshdeep Singh,25,43,2,4,10.75,,0
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,HV Patel,26,24,3,4,6,,0
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,Harpreet Brar,6,19,0,1,19,,0
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,K Rabada,19,24,0,3,8,,0
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,RD Chahar,25,23,3,4,5.75,,1
+1426291,Chennai Super Kings,Chennai Super Kings,Punjab Kings,Punjab Kings,SM Curran,24,34,1,4,8.5,,0
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,MJ Santner,18,10,1,3,3.33,,2
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,RA Jadeja,24,20,3,4,5,,1
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,RJ Gleeson,26,41,0,4,10.25,,0
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,SN Thakur,13,16,1,2,8,,0
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,Simarjeet Singh,18,17,2,3,5.67,,1
+1426291,Punjab Kings,Chennai Super Kings,Punjab Kings,Chennai Super Kings,TU Deshpande,25,35,2,4,8.75,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,KH Pandya,14,26,0,2,13,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,MP Stoinis,12,29,0,2,14.5,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,13,28,0,2,14,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,25,49,3,4,12.25,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,26,33,1,4,8.25,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Yash Thakur,27,46,1,4,11.5,,0
+1426292,Kolkata Knight Riders,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Yudhvir Singh,12,24,1,2,12,,0
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,AD Russell,15,18,2,2,9,,0
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,CV Varun,18,30,3,3,10,,0
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Harshit Rana,20,24,3,3,8,,0
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,MA Starc,12,22,1,2,11,,0
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,SP Narine,25,22,1,4,5.5,,1
+1426292,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,VG Arora,13,21,0,2,10.5,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,B Kumar,25,31,1,4,7.75,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,M Jansen,20,50,1,3,16.67,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Nithish Kumar Reddy,12,16,0,2,8,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,PJ Cummins,25,35,1,4,8.75,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Shahbaz Ahmed,6,11,0,1,11,,0
+1426293,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,T Natarajan,20,31,0,3,10.33,,0
+1426293,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,A Kamboj,27,43,1,4,10.75,,0
+1426293,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,HH Pandya,25,31,3,4,7.75,,0
+1426293,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,JJ Bumrah,25,23,1,4,5.75,,1
+1426293,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,N Thushara,28,43,0,4,10.75,,0
+1426293,Sunrisers Hyderabad,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,PP Chawla,26,33,3,4,8.25,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Avesh Khan,12,42,0,2,21,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,R Ashwin,24,24,3,4,6,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,R Parag,13,17,0,2,8.5,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,24,42,3,4,10.5,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,TA Boult,24,48,1,4,12,,0
+1426294,Delhi Capitals,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,YS Chahal,24,48,1,4,12,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,AR Patel,18,25,1,3,8.33,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,I Sharma,19,34,0,3,11.33,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,KK Ahmed,31,47,2,5,9.4,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Kuldeep Yadav,25,25,2,4,6.25,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Mukesh Kumar,19,34,2,3,11.33,,0
+1426294,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Rasikh Salam,19,36,1,3,12,,0
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,24,13,2,4,3.25,,2
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,JD Unadkat,12,19,0,2,9.5,,0
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,24,47,1,4,11.75,,0
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,12,9,0,2,4.5,,1
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,27,50,1,4,12.5,,0
+1426295,Lucknow Super Giants,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,V Viyaskanth,24,27,0,4,6.75,,0
+1426295,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,A Badoni,6,19,0,1,19,,0
+1426295,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,K Gowtham,13,30,0,2,15,,0
+1426295,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Naveen-ul-Haq,12,37,0,2,18.5,,0
+1426295,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Ravi Bishnoi,12,34,0,2,17,,0
+1426295,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Yash Thakur,17,47,0,2,23.5,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,C Green,6,16,0,1,16,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,KV Sharma,18,36,2,3,12,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,LH Ferguson,18,31,3,3,10.33,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Mohammed Siraj,26,43,3,4,10.75,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Swapnil Singh,18,28,2,3,9.33,,0
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,WG Jacks,6,5,0,1,5,,1
+1426296,Punjab Kings,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,Yash Dayal,13,22,0,2,11,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,Arshdeep Singh,20,41,1,3,13.67,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,HV Patel,25,39,3,4,9.75,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,LS Livingstone,19,28,0,3,9.33,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,RD Chahar,19,47,0,3,15.67,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,SM Curran,20,50,1,3,16.67,,0
+1426296,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,V Kaverappa,24,36,2,4,9,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Kartik Tyagi,26,52,0,4,13,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,MM Sharma,26,31,3,4,7.75,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Noor Ahmad,12,25,0,2,12.5,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,Rashid Khan,24,40,2,4,10,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,S Sandeep Warrier,18,28,1,3,9.33,,0
+1426297,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Gujarat Titans,UT Yadav,18,20,2,3,6.67,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,DJ Mitchell,25,52,0,4,13,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,MJ Santner,12,31,0,2,15.5,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,RA Jadeja,12,29,0,2,14.5,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,SN Thakur,24,26,0,4,6.5,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,26,60,1,4,15,,0
+1426297,Gujarat Titans,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,TU Deshpande,26,33,2,4,8.25,,0
+1426298,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,A Kamboj,19,24,1,3,8,,0
+1426298,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,HH Pandya,18,34,0,3,11.33,,0
+1426298,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,JJ Bumrah,24,40,3,4,10,,0
+1426298,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,N Thushara,20,31,1,3,10.33,,0
+1426298,Kolkata Knight Riders,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,PP Chawla,18,28,2,3,9.33,,0
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,AD Russell,20,35,2,3,11.67,,0
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,CV Varun,25,18,2,4,4.5,,1
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Harshit Rana,19,34,3,3,11.33,,0
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,MA Starc,6,11,0,1,11,,0
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,SP Narine,18,21,1,3,7,,0
+1426298,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,VG Arora,14,20,0,2,10,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Avesh Khan,13,12,1,2,6,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,N Burger,18,21,1,3,7,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,R Ashwin,25,35,2,4,8.75,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Sandeep Sharma,19,31,0,3,10.33,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,TA Boult,15,24,0,2,12,,0
+1426299,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,YS Chahal,25,22,1,4,5.5,,1
+1426299,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,M Theekshana,24,28,0,4,7,,0
+1426299,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,RA Jadeja,24,24,0,4,6,,0
+1426299,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,SN Thakur,24,32,0,4,8,,0
+1426299,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,28,26,3,4,6.5,,0
+1426299,Rajasthan Royals,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,TU Deshpande,24,31,2,4,7.75,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,C Green,26,19,2,4,4.75,,1
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,KV Sharma,12,19,0,2,9.5,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,LH Ferguson,24,24,2,4,6,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,Mohammed Siraj,26,33,1,4,8.25,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,Swapnil Singh,6,9,1,1,9,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,WG Jacks,6,16,0,1,16,,0
+1426300,Delhi Capitals,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,Yash Dayal,20,20,4,3,6.67,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,AR Patel,18,24,0,3,8,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,I Sharma,21,31,1,3,10.33,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,KK Ahmed,24,32,2,4,8,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Kuldeep Yadav,25,53,1,4,13.25,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Mukesh Kumar,18,24,3,3,8,,0
+1426300,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,Rasikh Salam,21,23,2,3,7.67,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Arshad Khan,23,45,1,3,15,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,DJ Hooda,7,9,0,1,9,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,KH Pandya,13,20,0,2,10,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Mohsin Khan,24,29,0,4,7.25,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Naveen-ul-Haq,25,51,2,4,12.75,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Ravi Bishnoi,24,26,1,4,6.5,,0
+1426302,Delhi Capitals,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Yudhvir Singh,12,28,0,2,14,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,AR Patel,6,20,1,1,20,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Gulbadin Naib,6,12,0,1,12,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,I Sharma,26,34,3,4,8.5,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,KK Ahmed,13,23,1,2,11.5,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Kuldeep Yadav,24,33,1,4,8.25,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Mukesh Kumar,26,33,2,4,8.25,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,Rasikh Salam,18,30,0,3,10,,0
+1426302,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,T Stubbs,6,4,1,1,4,,1
+1426303,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Avesh Khan,23,28,2,3,9.33,,0
+1426303,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,R Ashwin,24,31,0,4,7.75,,0
+1426303,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Sandeep Sharma,24,28,0,4,7,,0
+1426303,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,TA Boult,18,27,1,3,9,,0
+1426303,Punjab Kings,Rajasthan Royals,Punjab Kings,Rajasthan Royals,YS Chahal,25,31,2,4,7.75,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,Arshdeep Singh,24,32,1,4,8,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,HV Patel,25,28,3,4,7,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,Harpreet Brar,6,10,0,1,10,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,NT Ellis,24,24,1,4,6,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,RD Chahar,24,26,2,4,6.5,,0
+1426303,Rajasthan Royals,Rajasthan Royals,Punjab Kings,Punjab Kings,SM Curran,18,24,2,3,8,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,A Kamboj,22,48,0,3,16,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Arjun Tendulkar,15,22,0,2,11,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,HH Pandya,12,27,0,2,13.5,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,N Thushara,26,28,3,4,7,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,N Wadhera,12,13,0,2,6.5,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Naman Dhir,4,17,0,0,9.5,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,PP Chawla,24,29,3,4,7.25,,0
+1426305,Lucknow Super Giants,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,R Shepherd,15,30,0,2,15,,0
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Arshad Khan,14,11,0,2,5.5,,1
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,KH Pandya,25,29,1,4,7.25,,0
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,MJ Henry,14,24,0,2,12,,0
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Mohsin Khan,26,45,1,4,11.25,,0
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Naveen-ul-Haq,26,50,2,4,12.5,,0
+1426305,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Ravi Bishnoi,24,37,2,4,9.25,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,C Green,13,19,1,2,9.5,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,GJ Maxwell,25,25,2,4,6.25,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,KV Sharma,6,14,0,1,14,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,LH Ferguson,20,39,1,3,13,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Mohammed Siraj,25,39,1,4,9.75,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Swapnil Singh,13,13,0,2,6.5,,0
+1426306,Chennai Super Kings,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,Yash Dayal,24,42,2,4,10.5,,0
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,M Theekshana,25,25,0,4,6.25,,0
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,MJ Santner,24,23,2,4,5.75,,1
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,RA Jadeja,18,40,0,3,13.33,,0
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,SN Thakur,24,62,2,4,15.5,,0
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Simarjeet Singh,8,19,0,1,19,,0
+1426306,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,TU Deshpande,28,49,1,4,12.25,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,B Kumar,24,37,0,4,9.25,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Nithish Kumar Reddy,21,54,1,3,18,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,PJ Cummins,24,36,1,4,9,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Shahbaz Ahmed,6,13,0,1,13,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,T Natarajan,26,33,2,4,8.25,,0
+1426307,Punjab Kings,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,V Viyaskanth,24,41,1,4,10.25,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Arshdeep Singh,25,38,2,4,9.5,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Atharva Taide,1,4,0,0,9.5,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,HV Patel,27,49,2,4,12.25,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Harpreet Brar,19,37,1,3,12.33,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,R Dhawan,19,39,0,3,13,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,RD Chahar,25,43,0,4,10.75,,0
+1426307,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Shashank Singh,6,5,1,1,5,,1
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,B Kumar,18,32,0,3,10.67,,0
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Nithish Kumar Reddy,6,13,0,1,13,,0
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,PJ Cummins,19,42,1,3,14,,0
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,T Natarajan,19,23,1,3,7.67,,0
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,TM Head,10,32,0,1,32,,0
+1426309,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,V Viyaskanth,12,22,0,2,11,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,AD Russell,9,15,1,1,15,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,CV Varun,26,26,2,4,6.5,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,25,27,1,4,6.75,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,MA Starc,25,34,3,4,8.5,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,SP Narine,24,40,2,4,10,,0
+1426309,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,VG Arora,15,17,1,2,8.5,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,C Green,24,28,2,4,7,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,KV Sharma,14,19,1,2,9.5,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,LH Ferguson,24,37,1,4,9.25,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Mohammed Siraj,27,34,2,4,8.5,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Swapnil Singh,12,19,0,2,9.5,,0
+1426310,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,Yash Dayal,18,37,0,3,12.33,,0
+1426310,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Avesh Khan,24,44,3,4,11,,0
+1426310,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,R Ashwin,26,19,2,4,4.75,,1
+1426310,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,24,48,1,4,12,,0
+1426310,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,TA Boult,24,18,1,4,4.5,,1
+1426310,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,YS Chahal,24,43,1,4,10.75,,0
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,AK Markram,7,10,0,1,10,,0
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Abhishek Sharma,24,24,2,4,6,,0
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,B Kumar,18,33,0,3,11,,0
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,JD Unadkat,7,5,0,1,5,,1
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,PJ Cummins,25,30,1,4,7.5,,0
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Shahbaz Ahmed,24,23,3,4,5.75,,1
+1426311,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,T Natarajan,19,14,1,3,4.67,,1
+1426311,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Avesh Khan,26,27,4,4,6.75,,0
+1426311,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,R Ashwin,24,43,0,4,10.75,,0
+1426311,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Sandeep Sharma,25,26,2,4,6.5,,0
+1426311,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,TA Boult,26,45,3,4,11.25,,0
+1426311,Sunrisers Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,YS Chahal,26,34,0,4,8.5,,0
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,AK Markram,6,5,0,1,5,,1
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,B Kumar,13,25,0,2,12.5,,0
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,JD Unadkat,6,9,0,1,9,,0
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,PJ Cummins,13,18,1,2,9,,0
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Shahbaz Ahmed,15,28,1,2,14,,0
+1426312,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,T Natarajan,14,29,0,2,14.5,,0
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,AD Russell,16,19,3,2,9.5,,0
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,CV Varun,12,10,1,2,5,,1
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Harshit Rana,25,24,2,4,6,,0
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,MA Starc,18,14,2,3,4.67,,1
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,SP Narine,24,20,1,4,5,,1
+1426312,Sunrisers Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,VG Arora,22,26,1,3,8.67,,0
